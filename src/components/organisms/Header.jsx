@@ -1,4 +1,4 @@
-import Input from "../components/atoms/Input.jsx";
+import Input from "../atoms/Input.jsx.jsx";
 
 function Header() {
   return (

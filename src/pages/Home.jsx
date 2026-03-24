@@ -1,7 +1,7 @@
-import StatCard from "../molecules/StatCard";
-import CurrentWeather from "../organisms/CurrentWeather";
-import Header from "../organisms/Header";
-import HourlyForecast from "../organisms/HourlyForecast";
+import StatCard from "../components/molecules/StatCard";
+import CurrentWeather from "../components/organisms/CurrentWeather";
+import Header from "../components/organisms/Header";
+import HourlyForecast from "../components/organisms/HourlyForecast";
 
 function Home() {
   return (

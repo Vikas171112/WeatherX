@@ -1,4 +1,4 @@
-import Card from "../components/atoms/Card";
+import Card from "../atoms/Card";
 
 function CurrentWeather() {
   return (
